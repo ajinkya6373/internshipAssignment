@@ -1,0 +1,14 @@
+img {
+  height: 200px;
+  width: 200px;
+  background-color: #f5f5f5;
+}
+.infoItem{
+  display: flex;
+}
+.text{
+  margin: 0 10px 5px;
+}
+.ant-card-actions {
+  background-color: #fafafa !important;
+}
